@@ -62,4 +62,4 @@ One of the major challenges was achieving high prediction accuracy. Different Ma
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/disease-prediction-system.git
+git clone https://github.com/singhtaniska12/DPS.git
